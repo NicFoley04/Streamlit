@@ -49,7 +49,7 @@ def get_page_title(page_name, selected_year):
 
 # Home Page
 if selected_option == 'Home':
-    st.markdown("### Welcome to the homepage! 👋 \n Yu can interact with the sales data of the company by selecting a page from the sidebar.  \nYou can chose between a general Sales overview, view how the Account Managers sales look or  \ntake a look into how our products are delivering in the Products Category section.")
+    st.markdown("### Welcome to the homepage! 👋 \n You can interact with the sales data of the company by selecting a page from the sidebar.  \nYou can chose between a general Sales overview, view how the Account Managers sales look or  \ntake a look into how our products are delivering in the Products Category section.")
     
 
 # Sales Overview section
